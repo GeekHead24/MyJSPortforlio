@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/workspaces/MyJSPortforlio/src/images/bg3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "background3";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Food Munch on AWS",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed and deployed "Food Munch," a dynamic recipe sharing and discovery platform, on AWS. Leveraged EC2 for scalable hosting, RDS for database management, and S3 for secure image storage. Implemented CI/CD pipelines for efficient updates and maintenance, ensuring high availability and performance.",
+    url: "https://d33c1kaio6u0xj.cloudfront.net",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ChatBot",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed and implemented an AI chatbot using natural language processing to enhance customer support, improving response times and user satisfaction by automating FAQs and providing personalized interactions.",
+    url: "ptextbot.ccbp.tech",
   },
   {
-    title: "My Resume Site",
+    title: "VoiceBot",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed an AI-powered voicebot for customer support, enabling natural language interactions, improving user experience, and reducing response times by integrating advanced NLP and machine learning technologies.",
+    url: "pvoicebot.ccbp.tech",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "FrameVR Fireplace Theatre",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed and designed an immersive "Fireplace Theatre" experience in FrameVR, creating a virtual environment that enhances storytelling through interactive, realistic 3D visuals and audio elements for engaging user experiences.",
+    url: "https://framevr.io/class-frame-24",
   },
 ];
 
