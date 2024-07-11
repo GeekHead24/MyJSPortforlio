@@ -51,7 +51,7 @@ const projectList = [
   {
     title: "FrameVR Fireplace Theatre",
     description:
-      "Developed and designed an immersive "Fireplace Theatre" experience in FrameVR, creating a virtual environment that enhances storytelling through interactive, realistic 3D visuals and audio elements for engaging user experiences.",
+      "Developed and designed an immersive experience in FrameVR, creating a virtual environment that enhances storytelling through interactive, realistic 3D visuals and audio elements for engaging user experiences.",
     url: "https://framevr.io/class-frame-24",
   },
 ];
