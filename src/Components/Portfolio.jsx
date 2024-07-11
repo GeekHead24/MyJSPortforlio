@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Food Munch on AWS",
     description:
-      "Developed and deployed "Food Munch" a dynamic recipe sharing and discovery platform, on AWS. Leveraged EC2 for scalable hosting, RDS for database management, and S3 for secure image storage. Implemented CI/CD pipelines for efficient updates and maintenance, ensuring high availability and performance.",
+      "Developed and deployed a dynamic recipe sharing and discovery platform, on AWS. Leveraged EC2 for scalable hosting, RDS for database management, and S3 for secure image storage. Implemented CI/CD pipelines for efficient updates and maintenance, ensuring high availability and performance.",
     url: "https://d33c1kaio6u0xj.cloudfront.net",
   },
   {
